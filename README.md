@@ -28,7 +28,7 @@ I'm a computer science student working towards a career in **cybersecurity**. I 
         <img src="https://raw.githubusercontent.com/pranjaltripathi684-wq/email-threat-detection-sih/main/docs/screenshots/dashboard.png" alt="AEGIS email forensics dashboard"/>
       </a>
       <h3>🛡️ AEGIS: Email Threat Forensics</h3>
-      <p>Smart India Hackathon team project. It takes a raw <code>.eml</code> and rebuilds the SMTP relay path, finds the earliest public IP, checks SPF / DKIM / DMARC alignment, flags lookalike domains and deceptive links, and gives an explainable 0–100 risk score with a chain-of-custody log. <b>I built most of the backend</b> and parts of the frontend.</p>
+      <p>Smart India Hackathon team project. It takes a raw <code>.eml</code> and rebuilds the SMTP relay path, finds the earliest public IP, checks SPF / DKIM / DMARC alignment, flags lookalike domains and deceptive links, and gives an explainable 0–100 risk score with a chain-of-custody log. <b>I worked on the backend</b> and parts of the frontend.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>

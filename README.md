@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Pranjal Tripathi: Cybersecurity · Backend engineering · AI-powered tools" width="100%"/>
+  <img src="assets/profile-banner.svg" alt="Pranjal Tripathi: Cybersecurity · Backend engineering · AI-powered tools" width="100%"/>
 </p>
 
 <p align="center">

@@ -12,7 +12,7 @@
 
 I'm a computer science student working towards a career in **cybersecurity**. I like building real, working tools, not toy apps. Most of my work sits where **security, backend engineering and AI** meet.
 
-- 🛡️ Working on **email threat forensics, detection engineering and secure-by-design apps**
+- 🛡️ Working across **core cybersecurity**: network security, threat detection and analysis, digital forensics, and application security
 - 🐍 Main language: **Python** (FastAPI and Flask backends, scikit-learn), with **React** on the frontend
 - 🌐 Comfortable with **networking fundamentals and reconnaissance**; I work on **Kali Linux**
 - 📡 Curious about **wireless networking and radio-frequency engineering**

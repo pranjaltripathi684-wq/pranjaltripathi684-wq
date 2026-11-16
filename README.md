@@ -40,7 +40,7 @@ I'm a computer science student working towards a career in **cybersecurity**. I 
     </td>
     <td width="50%" valign="top">
       <a href="https://vaultledger-black.vercel.app">
-        <img src="https://raw.githubusercontent.com/pranjaltripathi684-wq/VaultLedger/main/docs/screenshots/overview.png" alt="VaultLedger overview screen"/>
+        <img src="https://raw.githubusercontent.com/pranjaltripathi684-wq/VaultLedger/main/docs/screenshots/overview-dark.png" alt="VaultLedger overview screen"/>
       </a>
       <h3>🔐 VaultLedger</h3>
       <p>A private, offline-first personal finance ledger. You type entries in plain English (<i>"lunch 250 yesterday"</i>). It learns categories, detects recurring bills, forecasts month-end spending and handles six currencies. Every entry is <b>chained with SHA-256</b>, so edits made outside the app are detected.</p>

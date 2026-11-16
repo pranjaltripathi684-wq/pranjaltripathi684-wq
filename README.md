@@ -95,7 +95,7 @@ I'm a computer science student working towards a career in **cybersecurity**. I 
 ## 📫 Get in touch
 
 <p>
-  <a href="https://www.linkedin.com/in/tripathi-pranjal-45aosks"><img src="https://img.shields.io/badge/LinkedIn-Pranjal_Tripathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/pranjaltripathi-sec"><img src="https://img.shields.io/badge/LinkedIn-Pranjal_Tripathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:pranjaltripathi684@gmail.com"><img src="https://img.shields.io/badge/Email-pranjaltripathi684%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Based_in-Navi_Mumbai,_India-22d3ee?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Navi Mumbai, India"/>
 </p>
